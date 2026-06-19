@@ -1,7 +1,7 @@
 {
   "name": "@responsivevoice/text",
   "version": "2.0.0",
-  "description": "Text processing utilities for ResponsiveVoice TTS - chunking, preprocessing, and normalization",
+  "description": "Text processing & normalization utilities for ResponsiveVoice text-to-speech (TTS)",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
@@ -36,10 +36,10 @@
   },
   "keywords": [
     "responsivevoice",
-    "tts",
     "text-to-speech",
-    "text-chunking",
+    "tts",
     "text-processing",
+    "text-normalization",
     "typescript"
   ],
   "author": "ResponsiveVoice, Inc. <support@responsivevoice.org>",
